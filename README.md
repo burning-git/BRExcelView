@@ -1,5 +1,9 @@
 # BRExcelView
 
+## 效果图
+
+![Demo](demo.jpg)
+
 一个功能强大、灵活的 iOS 表格视图组件，支持自适应宽度、固定宽度和弹性宽度，类似 Excel 表格的显示效果。
 
 > 🎉 **新增完整示例集合**: 查看 `Examples/` 文件夹获取 **13 个可直接运行的使用示例**！
@@ -47,7 +51,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-username/BRExcelView.git", from: "1.0.0")
+    .package(url: "https://github.com/your-username/BRExcelView.git", from: "0.0.1")
 ]
 ```
 
