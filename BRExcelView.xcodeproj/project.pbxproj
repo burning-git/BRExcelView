@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		66EB041E2E8BB7D000367CD8 /* Exceptions for "BRExcelView" folder in "BRExcelView" target */ = {
+		66AF6AE22E8BCFE200E629F5 /* Exceptions for "BRExcelView" folder in "BRExcelView" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		66EB040E2E8BB7CE00367CD8 /* BRExcelView */ = {
+		66AF6AD62E8BCFE200E629F5 /* BRExcelView */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				66EB041E2E8BB7D000367CD8 /* Exceptions for "BRExcelView" folder in "BRExcelView" target */,
+				66AF6AE22E8BCFE200E629F5 /* Exceptions for "BRExcelView" folder in "BRExcelView" target */,
 			);
 			path = BRExcelView;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		66EB04032E8BB7CE00367CD8 = {
 			isa = PBXGroup;
 			children = (
-				66EB040E2E8BB7CE00367CD8 /* BRExcelView */,
+				66AF6AD62E8BCFE200E629F5 /* BRExcelView */,
 				66EB040D2E8BB7CE00367CD8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				66EB040E2E8BB7CE00367CD8 /* BRExcelView */,
+				66AF6AD62E8BCFE200E629F5 /* BRExcelView */,
 			);
 			name = BRExcelView;
 			packageProductDependencies = (
